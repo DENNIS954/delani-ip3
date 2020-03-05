@@ -43,7 +43,7 @@ Give an example
 ## Live Site
 This is the live link to the website.
 
-(https://dennis954.github.io/delanistudio)
+(https://dennis954.github.io/delanistudio/)
 
 
 ## Built With
