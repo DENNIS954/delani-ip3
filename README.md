@@ -42,7 +42,7 @@ Give an example
 
 ## Live Site
 
-[View](https://dennis954.github.io/delanistudio)
+(https://dennis954.github.io/delanistudio)
 
 
 ## Built With
